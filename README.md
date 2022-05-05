@@ -1,6 +1,6 @@
 # Página Oficial
 
 - Únete
-- Resultados
+- [Resultados](https://club-armagedon.github.io/index/resultados/sample)
 - Reglamento
 - Temporadas pasadas
