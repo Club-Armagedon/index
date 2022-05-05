@@ -1,3 +1,8 @@
+# Armagedón Torneo Ficticio 1
+
+## Ronda 3
+___
+
 | **Me.** | **SNo.** | **Nombre**          | **Pts** | **Res.** | **Pts** | **Nombre**         | **SNo.** |   |
 | ------- | -------- | ------------------- | ------- | -------- | ------- | ------------------ | -------- |-------------------------------------------------------------------
 | 1       | 11       | Castro, Donaldo     | 10      | 0-3      | 13      | Rivas, Andrés      | 14       |[ver]( https://lichess.org/hMnFnISd)                                 |       
@@ -9,3 +14,4 @@
 | 7       | 12       | Seguel, Jaíme       | 6       | 0F-3     | 4       | Ibarra, Victor     | 1        | Incomparecencia                                              |       
 | 8       | 20       | Romero, Óscar       | 3       | 3-0F     | 4       | Parreira, Gustavo  | 15       | Incomparecencia                                              |       
 |         | 18       | Reyes, Luis         | 0       |          | 0       | Descanso           |          |                                                              |       
+___
