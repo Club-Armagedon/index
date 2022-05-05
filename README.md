@@ -2,4 +2,5 @@
 
 - Únete
 - Resultados
-- Temporadas
+- Reglamento
+- Temporadas pasadas
