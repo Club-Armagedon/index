@@ -10,7 +10,9 @@ ___
 | 4       | 8        | [Peralta, Carlos](https://lichess.org/@/Carlos_Peralta) 🇲🇽     | 9       | [0-3](https://lichess.org/6G2ZD0mO)  | 9       | Rodríguez, Ernesto | 7        |                                  
 | 5       | 6        | Saravía, Joaquín    | 7       | [3-0](https://lichess.org/KkblWGfz)      | 7       | Salinas, Miguel    | 19       |       
 | 6       | 16       | Gormaz, Ignacio     | 6       | [3-0](https://lichess.org/cngXMRbu)| 6       | Aparicio, Diego    | 13       |                                  |       
-| 7       | 12       | Seguel, Jaíme       | 6       | 0F-3     | 4       | Ibarra, Victor     | 1        |      
+| 7       | 12       | Seguel, Jaíme 🟨       | 6       | 0F-3     | 4       | Ibarra, Victor     | 1        |      
 | 8       | 20       | Romero, Óscar       | 3       | 3-0F     | 4       | Parreira, Gustavo  | 15       |     
-|         | 18       | Reyes, Luis         | 0       |          | 0       | Descanso           |          |                                                             
+|         | 18       | Reyes, Luis  🟥       | 0       |          | 0       | Descanso           |          |                                                             
 ___
+
+
