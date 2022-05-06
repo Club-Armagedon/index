@@ -1,6 +1,6 @@
 # Página Oficial del Club
 
-![logo](/armagedon.png | width=100)
+<img src="/armagedon.png" width="200" height="200">
 
 - Únete
 - [Resultados](https://club-armagedon.github.io/index/resultados/sample)
